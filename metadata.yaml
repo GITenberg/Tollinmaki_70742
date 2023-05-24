@@ -1,5 +1,8 @@
 _repo: Tollinmaki_70742
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sillanpää, Frans Eemil
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4
     - https://fi.wikipedia.org/wiki/Frans_Emil_Sillanp%C3%A4%C3%A4
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70742#Tollinmaki
 gutenberg_issued: '2023-05-12'
 identifiers:
   gutenberg: '70742'
